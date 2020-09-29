@@ -1,2 +1,3 @@
 hello semos:) !
 this is my first exercise for git
+i upload this on remote sucessfuly
